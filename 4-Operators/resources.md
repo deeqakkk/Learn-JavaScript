@@ -1,0 +1,1 @@
+🔗 [Twitter Thread](https://twitter.com/Deeqakkk/status/1600407518710181889?s=20&t=zpN8-v5Nygi1Ut0rWZybLA)
