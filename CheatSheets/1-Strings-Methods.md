@@ -147,3 +147,9 @@ The trimStart() method removes whitespace from the beginning of a string.
 const name = '  Deepak';
 console.log(name.trimStart()); // "Deepak"
 ```
+
+<h1 align="center">Resources | Read More(in details) Here</h1>
+
+1. [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+2. [w3schools](https://www.w3schools.com/js/js_string_methods.asp)
+3. [Javatpoint](https://www.javatpoint.com/javascript-string)
