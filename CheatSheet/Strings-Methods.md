@@ -1,4 +1,5 @@
 <h1 align="center">Strings Methods</h1>
+
 ### 1. charCodeAt()
 The charCodeAt() method returns the Unicode of the character at the specified index in a string.
 ```js
